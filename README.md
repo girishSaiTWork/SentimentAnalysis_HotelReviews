@@ -1,1 +1,2 @@
-# SentimentAnalysis_HotelReviews
+## Hotel Reviews Sentiment Analysis
+The objective of this project is to create a sentiment predictor for hotel reviews and for its' services comparisons. This will be accomplished by creating a customer-oriented dashboard that presents what  good  services  are  provided  by  which  establishment.  For  example,  if  ambience  matters  the most to a particular customer, then this person can visualize and choose a hotel with good ambience reviews.
